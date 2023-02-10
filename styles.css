@@ -13,11 +13,12 @@
 #flightDisplay {
     text-align: center; 
     height: 400px; 
-    width: 100%;
+    width: 95%;
 }
 
 #spaceShuttleHeight {
     display: inline-block;
+    
 }
 
 .center-block {
@@ -27,4 +28,11 @@
 
 .centered {
     text-align: center;
+}
+
+#rocket{
+    display: inline-block;
+    position: absolute;
+    top: 255px;
+    left: 40%;
 }
