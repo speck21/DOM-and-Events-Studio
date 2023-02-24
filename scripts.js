@@ -1,6 +1,6 @@
 // Write your JavaScript code here.
 // Remember to pay attention to page loading!
-window.addEventListener("load", function(){
+window.addEventListener("DOMContentLoaded", function(){
     //let takeoff = this.document.getElementById("takeoff");
     //let land = this.document.getElementById("landing");
 
